@@ -1,4 +1,4 @@
-__What is Alias?__  
+## What is Alias?  
 A custom shortcut that represents  
 - A longer command or
 - Series of commands
