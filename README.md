@@ -25,7 +25,7 @@ ls user will found a ```tar.gz``` file which is backup file
 ```backup backup2.tar.gz Downloads/```  
 After writing this command user will found two backup file like one is ```backup1.tar.gz``` and another is by alias command ```backup2.tar.gz```
 
-Suppose a user have a directory which he use that frequently. User can create a shortcut for directory entering using ```alias``` command. Like normally user write like ```cd /home/Desktop``` but after ```alias``` command it will look like ```alias mydirectory="cd /home/Desktop"```. User can now go to that directory as a single command by writing mydirectory.  
+Suppose a user have a directory which he use that frequently. User can create a shortcut for directory entering using ```alias``` command. Like normally user write like ```cd /home/Desktop``` but after ```alias``` command it will look like ```alias mydirectory="cd /home/Desktop"```. User can now go to that directory as a single command by writing ```mydirectory```.  
 
 
 But one thing is this ```alias``` are temporary . To need as a permanent ```alias``` user should need to write ```.bashrc```  
