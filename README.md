@@ -4,7 +4,7 @@ A custom shortcut that represents
 - Series of commands
 
 __Syntax :__  
-```alias short_name="your command"```
+```alias short_name="your command"```  
 __Example:__  
 ```alias l="ls"```
 
